@@ -13,7 +13,7 @@ This is a simple Python script to extract text from PDF files.
 2.  **Run the Script:**
     Execute the script from your terminal, providing the absolute path to the PDF file you want to read as an argument:
     ```bash
-    python pdf_reader.py /Users/dw2022/summariesofpapers/summarize/Algorithmic Chaos.pdf
+    python pdf_reader.py /folder/Algorithmic Chaos.pdf
     ```
 
-    Replace `/Users/dw2022/summariesofpapers/summarize/Algorithmic Chaos.pdf` with the actual path to your PDF file.
+    Replace `/folder/Algorithmic Chaos.pdf` with the actual path to your PDF file.
